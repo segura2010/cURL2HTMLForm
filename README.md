@@ -18,12 +18,4 @@ Google Chrome's "Copy as cURL" option.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-Todas las funciones de la clase devuelven un Array! Deberas trabajar con el para mostrar los datos que necesites en tu aplicacion.
-
-Esto es asi para no limitar el uso de la clase y que el usuario pueda trabajar con todos los datos que Tuenti nos envia a traves de su API.
-
-phpTuenti version 0.0.3 by @alberto__segura
-
-Licencia Creative Commons
-phpTuenti API por Alberto Segura se encuentra bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 3.0 Unported.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">cURL2HTMLForm</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/segura2010/cURL2HTMLForm/" property="cc:attributionName" rel="cc:attributionURL">Alberto Segura (@alberto__segura)</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
