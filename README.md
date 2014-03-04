@@ -9,10 +9,9 @@ Usage:
 Execute this python script in a terminal with:
 $ python cURL2HTMLForm.py "curl 'http://site.dom/path -b ... (Your cURL command)'"
 
-This will print the HTML code of your form. You can use this:
+This will print the HTML code of your form. You can use this to generate a HTML file with the form:
 $ python cURL2HTMLForm.py "curl 'http://site.dom/path -b ... (Your cURL command)'" > htmlform.html
 
-To generate a HTML file with the form.
 
 IMPORTANT: Your "--data" option in your cURL command must be the latest option. We recommend that you use this script with
 Google Chrome's "Copy as cURL" option.
